@@ -1,0 +1,7 @@
+Files not in media.xml:
+
+lhs0909009sm2.mpg
+lhs1209036w2.aes.mpg
+lhs128074w2.aes.mpg
+
+3 Files not in the xml.

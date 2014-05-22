@@ -1,0 +1,9 @@
+text/plain:txt
+image/jpeg:jpg
+application/zip:zip
+audio/mpeg:mpg
+text/x-shellscript:sh
+video/x-flv:fiv
+image/gif:gif
+audio/x-wav:wav
+application/x-gzp:gz
